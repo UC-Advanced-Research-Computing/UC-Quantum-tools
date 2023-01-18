@@ -1,4 +1,29 @@
 # Changelog
+
+## [0.1.15] - 2023-1-17
+### Changed
+- fixed bug in counts command
+- reduced number of packages required
+- how packages are import from the module
+- image command output to different html element
+
+## [0.1.14] - 2023-1-17
+### Changed
+- changed image
+
+## [0.1.13] - 2022-11-11
+### Added
+- "shots" input for counts function
+- "elements" functionality
+### Changed
+- turned off warning for display (it was more annoying than I thought)
+
+
+## [0.1.12] - 2022-11-8
+### Changed
+- added dpi for images
+- modified messaging to use warnings
+
 ## [0.1.11] - 2022-11-3
 ### Changed
 - added matplotlib figure capability of display function
